@@ -15,7 +15,8 @@ public class cvicenie01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Dobrý deň.");
+        for (int i = 0; i< 5; i++)
+            System.out.println("Dobrý deň.");
     }
     
 }
